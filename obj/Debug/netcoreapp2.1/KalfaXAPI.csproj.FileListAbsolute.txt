@@ -1,0 +1,14 @@
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\bin\Debug\netcoreapp2.1\KalfaXAPI.deps.json
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\bin\Debug\netcoreapp2.1\KalfaXAPI.runtimeconfig.json
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\bin\Debug\netcoreapp2.1\KalfaXAPI.runtimeconfig.dev.json
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\bin\Debug\netcoreapp2.1\KalfaXAPI.dll
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\bin\Debug\netcoreapp2.1\KalfaXAPI.pdb
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.RazorAssemblyInfo.cache
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.RazorAssemblyInfo.cs
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.AssemblyInfo.cs
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.RazorTargetAssemblyInfo.cache
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.dll
+c:\users\administrator\source\repos\KalfaXAPI\KalfaXAPI\obj\Debug\netcoreapp2.1\KalfaXAPI.pdb
